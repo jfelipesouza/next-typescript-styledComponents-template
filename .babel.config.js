@@ -1,15 +1,14 @@
-{
-  "presets": [
-    "next/babel"
-  ],
-  "plugins": [
+module.exports = {
+  presets:["next/babel"],
+  plugins:[
     [
       "styled-components",
       {
-        "ssr": true,
+        "ssr":true,
         "displayName": true,
         "preprocess": false
       }
-    ]
+    ],
+    "inline-react-svg"
   ]
 }
