@@ -1,6 +1,6 @@
 import "styled-components";
 
-import theme from './defaultTheme';
+import theme from "../styles/defaultTheme";
 
 export type Theme = typeof theme;
 

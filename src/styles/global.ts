@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
   }
 
-  body{
+  :root{
     font: 400 16px 'Roboto',sans-serif;
   }
 
