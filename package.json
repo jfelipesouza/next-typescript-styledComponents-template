@@ -2,7 +2,11 @@
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
-  "author": "Felipe Souza",
+  "author": {
+    "email": "j.felipe.dev.18@gmail.com",
+    "name": "Felipe Souza",
+    "url": "https://github.com/jfelipesouza/next-typescript-styledComponents-template"
+  },
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
